@@ -1,6 +1,6 @@
-# radio_ai
+# Flutter Project Starter
 
-A new Flutter project.
+A new Flutter project starter that uses some of the most used packages: Provider, Flutter_svg, google_fonts and also with a smiple theme changer.
 
 ## Getting Started
 
